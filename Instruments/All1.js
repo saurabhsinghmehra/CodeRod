@@ -15,6 +15,7 @@ function AudioSynthView() {
 		__octave += x;
 	
 		__octave = Math.min(5, Math.max(3, __octave));
+		
 	
 		var octaveName = document.getElementsByName('OCTAVE_LABEL');
 		var i = octaveName.length;
