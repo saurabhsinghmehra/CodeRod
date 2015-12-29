@@ -690,6 +690,7 @@ Synth.loadSoundProfile({
 		}
 	}
 },
+
 {
 	name: 'edm',
 	attack:	function() { return 0.002; },
